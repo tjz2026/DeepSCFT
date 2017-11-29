@@ -12,7 +12,7 @@ Any suggestions or commments are deeply appreciated by the author!
 
 Jiuzhou Tang
 
-Senior parallel engineer
+Senior parallel computing engineer
 National Super Computing Center in Wuxi,China.
 E-mail: tangjiuzhou@iccas.ac.cn
 
